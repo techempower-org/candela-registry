@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "fictions": [
+    {
+      "id": "github:jphein/example-fiction",
+      "title": "The Cartographer's Lantern",
+      "author": "A Library Nocturne Test",
+      "description": "A short fantasy in three chapters, written to exercise storyvox's GitHub source. A young cartographer is summoned to map the unmappable.",
+      "cover_url": "https://raw.githubusercontent.com/jphein/example-fiction/main/cover.png",
+      "tags": ["fantasy", "novella", "atmospheric", "test"],
+      "featured": true,
+      "added_at": "2026-05-07",
+      "status": "completed",
+      "rating": 4.5,
+      "chapter_count": 3
+    }
+  ]
+}
