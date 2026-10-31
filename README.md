@@ -23,3 +23,7 @@ See [the schema](https://github.com/jphein/storyvox/blob/main/source-github/src/
 ## Author rights
 
 Listing here doesn't transfer rights. The fiction stays in the author's repo under whatever license the author chose; storyvox just points at it. Authors can ask to be removed at any time.
+
+---
+
+Part of [Candela](https://candela.techempower.org) by [TechEMPOWER](https://techempower.org), a 501(c)(3) nonprofit in Grass Valley, California.
